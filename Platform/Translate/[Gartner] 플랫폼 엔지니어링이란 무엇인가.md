@@ -14,7 +14,8 @@
 
   
 [Download eBook]( [Your Detailed Guide to the Gartner Top 10 Strategic Technology Trends 2024](https://www.gartner.com/en/information-technology/insights/top-technology-trends))
-![[Pasted image 20231212163933.png]]
+![](https://i.imgur.com/AIcX2Ck.png)
+
 
 # 플랫폼 엔지니어링의 작동 방식 
 
@@ -31,6 +32,7 @@ product 전담 팀은 엔지니어링 플랫폼을 생성하고 유지보수하�
 
 
 [영상](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.gartner.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.gartner.com&source_ve_path=MzY4NDIsMjg2NjQsMTY0NTAz&feature=emb_share&v=Lq-G2GyLsFk)
+![](https://i.imgur.com/BmXgfIt.png)
 
 # 플랫폼 엔지니어링이 사용되는 용도 
 
