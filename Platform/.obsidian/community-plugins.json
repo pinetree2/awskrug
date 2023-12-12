@@ -4,5 +4,6 @@
   "make-md",
   "obsidian-plugin-toc",
   "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "image-upload-toolkit"
 ]
