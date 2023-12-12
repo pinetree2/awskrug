@@ -13,9 +13,8 @@
 2026년까지 대형 소프트웨어 엔지니어링 조직의 80%는 플랫폼 엔지니어링 팀을 내부 제공자로서 설립하여 재사용 가능한 서비스, 구성 요소 및 애플리케이션 제공을 위한 도구를 구축할 것으로 예상됩니다. **플랫폼 엔지니어링은 궁극적으로 소프트웨어 개발자와 운영자 간의 협력 문제를 해결할 것입니다.**
 
   
-Download eBook: [Your Detailed Guide to the Gartner Top 10 Strategic Technology Trends 2024](https://www.gartner.com/en/information-technology/insights/top-technology-trends)
-![[Pasted image 20231212154100.png]]
-
+[Download eBook]( [Your Detailed Guide to the Gartner Top 10 Strategic Technology Trends 2024](https://www.gartner.com/en/information-technology/insights/top-technology-trends))
+![[Pasted image 20231212163033.png]]
 
 # 플랫폼 엔지니어링의 작동 방식 
 
@@ -30,9 +29,9 @@ product 전담 팀은 엔지니어링 플랫폼을 생성하고 유지보수하�
 목표는 개발자들과 다른 사용자들이 가능한 한 부담 없이 가치 있는 소프트웨어를 개발할 수 있도록 마찰 없는 셀프 서비스 개발자 경험을 제공하는 것입니다. <font color="#d7e3bc">플랫폼은 개발자 생산성을 높이고 인지 부하를 줄이며</font>, 개발팀이 필요로 하는 모든 것을 포함하고, 팀의 선호하는 워크플로에 맞게 제공합니다.
 새로운 도구들의 개발로 인해 플랫폼 엔지니어링은 DevOps 커뮤니티 내에서 가장 화두가 되고 있습니다. 이러한 도구들은 플랫폼 구축과 유지보수를 더 쉽게 만들기 위해 개발되었습니다.
 
-![[Pasted image 20231212161321.png]]
-[영상](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.gartner.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.gartner.com&source_ve_path=MzY4NDIsMjg2NjQsMTY0NTAz&feature=emb_share&v=Lq-G2GyLsFk)
 
+[영상](https://www.youtube.com/watch?embeds_referring_euri=https%3A%2F%2Fwww.gartner.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.gartner.com&source_ve_path=MzY4NDIsMjg2NjQsMTY0NTAz&feature=emb_share&v=Lq-G2GyLsFk)
+![[Pasted image 20231212163041.png]]
 # 플랫폼 엔지니어링이 사용되는 용도 
 
 플랫폼 엔지니어링은 각기 다른 목적에 활용됩니다. 
