@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
+                "file": "Translate/[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
+                "file": "Translate/[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
+                "file": "Translate/[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md"
+                "file": "Translate/[Gartner] 플랫폼 엔지니어링이란 무엇인가.md"
               }
             }
           }
@@ -163,13 +163,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5b0b28ccefd3ad10",
+  "active": "235b86aa8b0b6515",
   "lastOpenFiles": [
+    "Translate",
     "[Pasted image 20231212161321.png]().md",
-    "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
+    "Translate/[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
     "Pasted image 20231212161321.png",
     "Pasted image 20231212154100.png",
-    "무제 폴더",
     "Spaces/Home",
     "Spaces"
   ]
