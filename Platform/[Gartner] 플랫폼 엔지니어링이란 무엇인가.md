@@ -1,5 +1,5 @@
 > [!NOTE]
-> 원본   [링크](https://www.gartner.com/en/articles/what-is-platform-engineering)
+> 원본 글 - What Is Platform Engineering?   [링크](https://www.gartner.com/en/articles/what-is-platform-engineering)
 
 
 **플랫폼 엔지니어링**은 애플리케이션의 제공 속도를 가속화하고 비즈니스 가치를 빠르게 창출할 수 있는 새로운 기술적 접근 방식입니다. 
@@ -16,3 +16,5 @@
 Download eBook: [Your Detailed Guide to the Gartner Top 10 Strategic Technology Trends 2024](https://www.gartner.com/en/information-technology/insights/top-technology-trends)
 ![[Pasted image 20231212154100.png]]
 
+
+# 플랫폼 엔지니어링의 작동 방식 
