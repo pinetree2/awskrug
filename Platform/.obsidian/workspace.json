@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[Gartner] What Is Platform Engineering.md",
+                "file": "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5876990f95611060",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[Gartner] What Is Platform Engineering.md",
+                "file": "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[Gartner] What Is Platform Engineering.md",
+                "file": "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "[Gartner] What Is Platform Engineering.md"
+                "file": "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md"
               }
             }
           }
@@ -166,7 +165,8 @@
   },
   "active": "5b0b28ccefd3ad10",
   "lastOpenFiles": [
-    "[Gartner] What Is Platform Engineering.md",
+    "Pasted image 20231212154100.png",
+    "[Gartner] 플랫폼 엔지니어링이란 무엇인가.md",
     "무제 폴더",
     "Spaces/Home",
     "Spaces"
