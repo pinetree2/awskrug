@@ -2,7 +2,7 @@
   "editing-toolbar",
   "obsidian-emoji-toolbar",
   "make-md",
-  "obsidian-git",
   "obsidian-plugin-toc",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-git"
 ]
